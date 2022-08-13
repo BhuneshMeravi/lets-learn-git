@@ -4,5 +4,5 @@ using namespace std;
 
 int main(){
     int a,b;
-    cout<<a+b<<endl;
+    cout<<"this is ans"<<a+b<<endl;
 }
